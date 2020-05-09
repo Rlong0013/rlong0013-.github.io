@@ -1,0 +1,17 @@
+body {
+    padding: 20px
+  }
+  
+  video {
+    max-width: 100%;
+    border: 1px solid;
+  }
+  
+  .btn {
+    display: block;
+    margin-top: 20px;
+  }
+  
+  .hidden {
+    display: none;
+  }
